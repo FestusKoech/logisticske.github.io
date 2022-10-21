@@ -3,7 +3,7 @@ import mastercard from "./mastercard.png";
 import card from "./card.png";
 import mpesa from "./mpesa.png";
 import paypal from "./paypal.png";
-import logo from "./logo.png";
+import logo from "./logo.jpg";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
@@ -28,11 +28,12 @@ import agriculture from "./agriculture.png";
 import construction from "./construction.png";
 import applepay from "./applepay.png";
 import visa from "./visa.png";
-
+import icon from "./icon.jpg";
 
 
 export {
   visa,
+  icon,
   bill,
   applepay,
   agriculture,

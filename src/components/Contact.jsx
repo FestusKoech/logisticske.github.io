@@ -21,7 +21,7 @@ const contact = () => {
                   GET IN TOUCH WITH US
                </h2>
                <p class="text-base text-body-color leading-relaxed mb-9">
-                  Dear ur esteemed customer, you can reach us via phone, mail or by sending us a message to report complaints, suggestions and even compliments!
+                  Dear our esteemed customer, you can reach us via phone, mail or by sending us a message to report complaints, suggestions, and even compliments!
                </p>
                <div class="flex mb-8 max-w-[370px] w-full">
                   <div
@@ -55,7 +55,7 @@ const contact = () => {
                   <div class="w-full">
                      <h4 class="font-bold text-dark text-xl mb-1">Our Location</h4>
                      <p class="text-base text-body-color">
-                        00200-2000. Luthuli ave. Nairobi 
+                         Nairobi 
                      </p>
                   </div>
                </div>
@@ -96,7 +96,7 @@ const contact = () => {
                   </div>
                   <div class="w-full">
                      <h4 class="font-bold text-dark text-xl mb-1">Phone Number</h4>
-                     <p class="text-base text-body-color">(+254) 712345678</p>
+                     <p class="text-base text-body-color">(+254) 723488909</p>
                   </div>
                </div>
                <div class="flex mb-8 max-w-[370px] w-full">

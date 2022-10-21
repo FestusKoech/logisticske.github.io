@@ -127,19 +127,19 @@ export const footerLinks = [
     links: [
       {
         name: "Warehouse Logistics",
-        link: "https://www.transcorp.com/",
+        link: "https://www.loribaridi.com/",
       },
       {
         name: "Distribution",
-        link: "https://www.transcorp.com/distribution/",
+        link: "https://www.loribaridi.com/distribution/",
       },
       {
         name: "Transportation",
-        link: "https://www.transcorp.com/transport/",
+        link: "https://www.loribaridi.com/transport/",
       },
       {
         name: "Leasing",
-        link: "https://www.transcorp.com/lease/",
+        link: "https://www.loribaridi.com/lease/",
       },
       
     ],
@@ -149,24 +149,24 @@ export const footerLinks = [
     links: [
       {
         name: "Rongai",
-        link: "https://www.transcorp.com/help-center/",
+        link: "https://www.loribaridi.com/help-center/",
 
       },
       {
         name: "Nairobi",
-        link: "https://www.transcorp.com/partners/",
+        link: "https://www.loribaridi.com/partners/",
       },
       {
         name: "Kikuyu",
-        link: "https://www.transcorp.com/suggestions/",
+        link: "https://www.loribaridi.com/suggestions/",
       },
       {
         name: "Nakuru",
-        link: "https://www.transcorp.com/blog/",
+        link: "https://www.loribaridi.com/blog/",
       },
       {
         name: "Thika",
-        link: "https://www.transcorp.com/newsletters/",
+        link: "https://www.loribaridi.com/newsletters/",
       },
     ],
   },
@@ -175,15 +175,15 @@ export const footerLinks = [
     links: [
       {
         name: "Terms & Services",
-        link: "https://www.transcorp.com/terms-and-services/",
+        link: "https://www.loribaridi.com/terms-and-services/",
       },
       {
         name: "Suggestions",
-        link: "https://www.transcorp.com/become-a-partner/",
+        link: "https://www.loribaridi.com/become-a-partner/",
       },
       {
         name: "Comments",
-        link: "https://www.transcorp.com/terms-and-services/",
+        link: "https://www.loribaridi.com/terms-and-services/",
       },
     ],
   },
@@ -193,22 +193,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/transcorpintl/",
+    link: "https://www.instagram.com/loribaridi/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://web.facebook.com/Transcorp.Intl/?_rdc=1&_rdr",
+    link: "https://web.facebook.com/loribaridi.Intl/?_rdc=1&_rdr",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://twitter.com/transcorpintl?lang=en",
+    link: "https://twitter.com/@SPxDevelopers",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/check/manage-account",
+    link: "https://www.linkedin.com/in/festus-koech",
   },
 
 ];

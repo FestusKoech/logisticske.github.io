@@ -18,7 +18,7 @@ const Hero = () => {
         Logistics Company Based In Nairobi
         </h1>
         <p className={`${styles.paragraph} text-base text-body-color`}>
-        Transcorp is a leading provider of smart cold-chain solutions across the country. Since day one, 
+        Loribaridi is a leading provider of smart cold-chain solutions across the country. Since day one, 
         we’ve been working to improve the last mile of our partners by using innovative programs that ensure “Fast, Safe & Cool Deliveries”.
         </p>
       </div>
