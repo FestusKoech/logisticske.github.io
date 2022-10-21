@@ -29,6 +29,7 @@ import construction from "./construction.png";
 import applepay from "./applepay.png";
 import visa from "./visa.png";
 import icon from "./icon.jpg";
+import logo from ".logo.JPG";
 
 
 export {
