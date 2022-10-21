@@ -1,16 +1,12 @@
 {
-  "name": "logisticske",
-  "private": false,
-  "version": "7.3.7",
-  "homepage": "https://FestusKoech.github.io/logisticske",
+  "name": "mall",
+  "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d ",
-    "test": "jest"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
